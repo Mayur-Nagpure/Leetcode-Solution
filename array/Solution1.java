@@ -1,7 +1,7 @@
 package array;
 import java.util.Arrays;
 
-// ====MInimun Difference Between Highest abd Lowest of K Scores====
+// ====Minimun Difference Between Highest abd Lowest of K Scores====
 
 //You are given a 0-indexed integer array nums, where nums[i] represents the score of the ith student. You are also given an integer k.
 //
